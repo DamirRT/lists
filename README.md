@@ -20,13 +20,15 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Non-technical
 
+* [4dayweek](https://github.com/rafaelcamargo/4dayweek) – Companies friendly to the 4-day workweek.
+  - https://4dayweek.rafaelcamargo.com/
+* [aero-structures](https://github.com/specifics/aero-structures) – Resources for analyzing aircraft structures for aerospace engineers.
 * [aksh](https://github.com/svaksha/aksh) – Bibliography of STEM (Science, Technology, Engineering & Mathematics) resources and grey literature.
 * [amas](https://github.com/sindresorhus/amas) – Awesome & Marvelous Amas (Ask Me Anything) on GitHub
 * [Annual-Reading-List](https://github.com/davidskeck/Annual-Reading-List) – Things to read every year.
 * [awesomebandnames](https://github.com/jnv/awesomebandnames) – The open-source list of awesome band names.
 * [awesome-belarus-online](https://github.com/Friz-zy/awesome-belarus-online) – Useful belarusian online resources.
 * [awesome-biology](https://github.com/raivivek/awesome-biology) – Learning resources, research papers, tools and other resources related to Biology.
-* [awesome-bitclout](https://github.com/barrymode/awesome-bitclout) – BitClout is social media on a blockchain. Everyone gets their own coin.
 * [awesome-board-games](https://github.com/edm00se/awesome-board-games) – Awesome and exceptional board games
   - https://awesomeboard.games
 * [awesome-ethics](https://github.com/HussainAther/awesome-ethics)
@@ -46,6 +48,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-philosophy](https://github.com/HussainAther/awesome-philosophy) – Philosophy
 * [awesome-reddit-channels](https://github.com/MadhuNimmo/awesome-reddit-channels) – Reddit Channels every programmer must follow.
 * [awesome-scifi](https://github.com/sindresorhus/awesome-scifi) – Sci-Fi worth consuming.
+* [awesome-space](https://github.com/elburz/awesome-space) – Outer Space.
+* [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) – Space exploration related book.
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking) – Resources about public speaking
 * [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) – Stock photography, video and illustration websites.
 * [awesome-theravada](https://github.com/johnjago/awesome-theravada) – Theravada Buddhist teachings
@@ -88,7 +92,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [recipes](https://github.com/bzimmerman/recipes) by @bzimmerman – This repository contains tasty open-source recipes.
 * [recipes](https://github.com/csswizardry/recipes) by @csswizardy – Collection of things I like cooking
 * [recipes](https://github.com/LarryMad/recipes) by @LarryMad
-* [recipes](https://github.com/nofunsir/recipes) by @nofunsir
 * [recipes](https://github.com/schacon/recipes) by @schacon
 * [recipes](https://github.com/silizuo/recipes) _In Chinese and English_ by @silizuo
 * [sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) – Awesome vegetarian-friendly restaurants in SF
@@ -99,6 +102,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Sustainable-Earth](https://github.com/bizz84/Sustainable-Earth) – All things sustainable
 * [tacofancy](https://github.com/sinker/tacofancy) – community-driven taco repo. stars stars stars.
 * [teesites](https://github.com/elder-cb/teesites) – Great sites to buy awesome t-shirts and other cool stuff.
+* [warren](https://github.com/torchhound/warren) – Interesting and deep corners of the internet to explore.
 
 
 ## Technical
@@ -157,6 +161,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [best-practices-checklist](https://github.com/palash25/best-practices-checklist) – Language-specific resources to look up the best practices followed by that particular language's community.
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) – Some useful websites for programmers.
 * [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) _In Chinese_ – 程序员应该访问的最佳网站中文版
+* [Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) – Data brokers and how to opt out from trading your personal information.
 * [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) – Big-data related projects packed into a JSON dataset.
   - http://bigdata.andreamostosi.name/
 * [Big-List-of-ActivityPub](https://github.com/shleeable/Big-List-of-ActivityPub) – ActivityPub Projects
@@ -174,6 +179,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [channels](https://github.com/andrew--r/channels) _In Russian_ – YouTube channels for web developers.
 * [citizen-science](https://github.com/dylanrees/citizen-science) – Scientific tools to empower communities and/or practice various forms of non-institutional science
 * [classics](https://github.com/eyy/classics) – Classical studies (Latin and Ancient Greek) resources: software, code and raw data.
+* [classless-css](https://github.com/dbohdan/classless-css) – Classless CSS themes/frameworks.
 * [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) – Open-source clones of popular sites.
 * [cloud-conferences](https://github.com/stefan-kolb/cloud-conferences) – A collection of scientific and industry conferences focused on cloud computing.
   - http://stefan-kolb.github.io/cloud-conferences/
@@ -184,6 +190,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c) – Compilers that can generate C code.
 * [computer-science](https://github.com/ossu/computer-science) – Path to a free self-taught graduation in Computer Science.
 * [content-management-systems](https://github.com/ahadb/content-management-systems) – Open source & proprietary content management systems.
+* [cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) – Free to use AI APIs and sites.
 * [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools) – Tools to help prioritize above-the-fold CSS.
 * [CryptoList](https://github.com/coinpride/CryptoList) – Blockchain & cryptocurrency resources.
 * [crypto-might-not-suck](https://github.com/sweis/crypto-might-not-suck) – Crypto Projects that Might not Suck.
@@ -198,6 +205,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://curatedseotools.com
 * [cycle-ecosystem](https://github.com/Widdershin/cycle-ecosystem) – What are the most popular and trending libraries for [Cycle.js](http://cycle.js.org/)?
 * [dad-jokes](https://github.com/wesbos/dad-jokes) – Dad style programming jokes.
+* [dark-knowledge](https://github.com/prescience-data/dark-knowledge) – Research papers and presentations for counter-detection and web privacy enthusiasts.
 * [datajournalists-toolbox](https://github.com/basilesimon/datajournalists-toolbox) – Tools for datajournalists, with examples and gists.
 * [datascience](https://github.com/r0f1/datascience) – Python resources for data science.
 * [data-science-blogs](https://github.com/rushter/data-science-blogs)
@@ -212,22 +220,25 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [delightful-fediverse-apps](https://codeberg.org/fediverse/delightful-fediverse-apps) – Applications for the Fediverse that are based on the ActivityPub protocol and related standards.
 * [delightful-libre-hosters](https://codeberg.org/jonatasbaldin/delightful-libre-hosters) – People and organizations who deploy, maintain and offer open source services to the public.
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) – Upcoming developer conferences.
+* [developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda)
+  - https://developers.events/
 * [dev-movies](https://github.com/aryaminus/dev-movies) – Recommended movies for people working in the Software and IT Industry.
 * [devopsbookmarks.com](https://github.com/devopsbookmarks/devopsbookmarks.com) – To discover tools in the devops landscape.
   - http://www.devopsbookmarks.com/
 * [devops_resources](https://github.com/dustinmm80/devops_resources)
-* [DevopsWiki](https://github.com/Leo-G/DevopsWiki) – Devops Tools, Tutorials and Scripts.
 * [dev-resource](https://github.com/Ibrahim-Islam/dev-resource) – Resources for devs online and offline.
+* [dhnotes](https://github.com/dh-notes/dhnotes) – Digital Humanities
 * [digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) – Resources for gardeners tending their digital notes on the public interwebs.
 * [discord-open-source](https://github.com/discord/discord-open-source) – Open source communities living on Discord.
 * [discord-resources](https://github.com/DTinker/discord-resources) – Discord modding resources.
 * [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) – Discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 * [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) – Dive into Machine Learning with Python Jupyter notebook and scikit-learn
   - http://hangtwenty.github.io/dive-into-machine-learning/
-* [django-must-watch](https://gitlab.com/rosarior/django-must-watch) – Must-watch videos bout Django web framework + Python.
+* [django-must-watch](https://gitlab.com/rosarior/django-must-watch) – Must-watch videos about Django web framework + Python.
 * [DL4NLP](https://github.com/andrewt3000/DL4NLP) – Deep Learning for Natural Language Processing resources.
 * [dumb-password-rules](https://github.com/dumb-password-rules/dumb-password-rules) – Shaming sites with dumb password rules.
 * [easy-application](https://github.com/j-delaney/easy-application) – Software engineering companies that are easy to apply to.
+* [edge-ai](https://github.com/crespum/edge-ai) – Embedded / Edge AI
 * [effects-bibliography](https://github.com/yallop/effects-bibliography) – A collaborative bibliography of work related to the theory and practice of computational effects
 * [ElixirBooks](https://github.com/sger/ElixirBooks) – Elixir programming language books
 * [elm-companies](https://github.com/jah2488/elm-companies) – Companies using Elm
@@ -246,7 +257,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Facets](https://github.com/O-I/Facets) – One-liners in Ruby
 * [fks](https://github.com/JacksonTian/fks) _In Chinese_ – Frontend Knowledge Structure.
 * [flat-file-cms](https://github.com/ahadb/flat-file-cms) – Stictly flat-file cms systems.
+* [forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) – Forced alignment (synchronization of speech with text)
 * [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) – Free and open-source software for developers
+* [foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) – Free and Open Source Photo Libraries.
 * [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – Open Source, Free Full Stack Training with hours of coding challenges, projects, and certifications.
   - https://www.freecodecamp.org/
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) – Software, SaaS, PaaS etc offerings that have free tiers for devs.
@@ -288,8 +301,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [graph-adversarial-learning-literature](https://github.com/YingtongDou/graph-adversarial-learning-literature) – Adversarial learning papers on graph-structured data.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) – Game development and realtime graphics programming.
 * [graphql-apis](https://github.com/IvanGoncharov/graphql-apis) – Public GraphQL APIs.
+* [guide.onym.co](https://github.com/onymco/guide.onym.co) – Tools and resources for naming things.
+  - https://guide.onym.co
 * [guides](https://github.com/NARKOZ/guides) by @NARKOZ – Design and development guides
-* [guides](https://github.com/taniarascia/guides) by @taniarascia – Web Development Guides, Tutorials and Snippets.
 * [Hackathon-Resources](https://github.com/xasos/Hackathon-Resources) by @xasos – Hackathon Resources for organizers.
 * [hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) – Bots, clients, and other software people have made for [hack.chat](https://hack.chat).
 * [hacker-laws](https://github.com/dwmkerr/hacker-laws) – Laws, Theories, Principles and Patterns that developers will find useful.
@@ -297,7 +311,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) – Companies giving out swag for participation in [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
   - https://hacktoberfestswaglist.com
 * [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) – [HarmonyOS](https://www.harmonyos.com/en/) by Huawei
-* [haskell-companies](https://github.com/erkmos/haskell-companies) – Companies using Haskel
+* [haskell-companies](https://github.com/erkmos/haskell-companies) – Companies using Haskell.
 * [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch)
 * [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 * [hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives)
@@ -306,6 +320,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [hyperawesome](https://github.com/jorgebucaran/hyperawesome) – Hyperapp JavaScript framework
 * [idaplugins-list](https://github.com/onethawt/idaplugins-list) – Plugins for [IDA disassembler](https://www.hex-rays.com/products/ida/).
 * [ideas](https://github.com/samsquire/ideas) – One Hundred Ideas for Computing
+* [idiomatic-rust](https://github.com/mre/idiomatic-rust) – Articles/talks/repos which teach concise, idiomatic Rust.
+  - http://idiomatic.rs
 * [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) – Deals for InfoSec related software/tools this Black Friday
 * [Inspire](https://github.com/NoahBuscher/Inspire) – Links to assist you in web design and development
 * [interviews](https://github.com/kdn251/interviews) – Your personal guide to Software Engineering technical interviews.
@@ -322,7 +338,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [javascript-sdk-design](https://github.com/hueitan/javascript-sdk-design)
 * [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 * [jsemu](https://github.com/fcambus/jsemu) – Emulators written in JavaScript.
-* [jshomes/learning-resources](https://github.com/jshomes/learning-resources) – Web Platform/SaaS Learning Resources.
 * [jslibs](https://github.com/esamattis/jslibs) – My picks of promising/useful Javascript libraries.
   - *See also [JSwiki](http://jswiki.org/)*
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) – Must-watch videos about javascript.
@@ -339,7 +354,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) – Public failure/horror stories related to Kubernetes
   - https://k8s.af
 * [langs-in-rust](https://github.com/alilleybrinker/langs-in-rust) – Programming languages implemented in Rust.
-* [language-list](https://github.com/thomasfoster96/language-list) – Programming languages being developed on GitHub.
 * [Laravel-Resources](https://github.com/abhimanyu003/Laravel-Resources) – Laravel Framework Resources and Blogs.
 * [learn-drupal](https://github.com/rocketeerbkw/learn-drupal) – Stuff to help you learn Drupal.
 * [learn-for-free](https://github.com/aviaryan/learn-for-free) – Free learning resources for all topics you can think of.
@@ -351,6 +365,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [learn-tt](https://github.com/jozefg/learn-tt) – Resources for learning type theory.
 * [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) – Code documentation written as code!
   - https://learnxinyminutes.com/
+* [Lesser-Known-Terminal-Editors](https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors)
 * [libertr](https://github.com/gaapt/libertr) – Resources for liberty seekers.
 * [lifeofjs](https://github.com/abhijeetkpawar/lifeofjs) – Curated source for all types of awesome resources available for JavaScript.
 * [Linux_websites](https://github.com/hduffddybz/Linux_websites) _In Chinese_ – Websites related to Linux kernel development.
@@ -387,8 +402,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [NotesIndex](https://github.com/Wilbeibi/NotesIndex)
 * [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) – Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 * [offline-first](https://github.com/pazguille/offline-first) – Everything you need to know to create offline-first web apps.
+* [OpenAI](https://github.com/sqlshep/OpenAI) – Landing Page for OpenAI related links and topics.
+* [openapi-specification-extensions](https://github.com/Mermade/openapi-specification-extensions) – Common and standardised OpenAPI specification (vendor) extensions.
 * [opendronelist](https://github.com/dronetag/opendronelist) – Database of drones and their common properties.
   - https://dronetag.github.io/opendronelist/
+* [open-llms](https://github.com/eugeneyan/open-llms) – Open Large Language Models available for commercial use.
+* [open-product-management](https://github.com/ProductHired/open-product-management) – Product management advice for technical people.
 * [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) – Collection of Android Apps which are open source.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) – Open-source iOS apps.
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) – macOS open source applications.
@@ -408,6 +427,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [planetruby/calendar](https://github.com/planetruby/calendar) – Ruby events (meetups, conferences, camps, etc.) from around the world.
   - https://planetruby.github.io/calendar/
 * [post-mortems](https://github.com/danluu/post-mortems)
+* [Product-Management-and-Leadership](https://github.com/ElizaLo/Product-Management-and-Leadership)
+* [professional-programming](https://github.com/charlax/professional-programming) – Learning resources for curious software engineers.
 * [programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) – Proverbs from the programmer
 * [programming-talks](https://github.com/hellerve/programming-talks) – Awesome & Interesting Talks concerning Programming
 * [progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources) – (code) examples.
@@ -439,6 +460,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Resources](https://github.com/tevko/Resources) by @tevko – Tools for front end devs.
 * [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) – Getting started with bug bounties.
 * [Resources-for-Writing-Shaders-in-Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity)
+* [retro-computing-internet-resources](https://github.com/ssshake/retro-computing-internet-resources) – Various projects to get vintage computers connected to the internet.
 * [retter](https://github.com/MaciejCzyzewski/retter) – Hash functions, ciphers, tools, libraries, and materials related to cryptography & security.
 * [reverse-interview](https://github.com/viraptor/reverse-interview) – Questions to ask the company during your interview
 * [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) – Rich Hickey's works on the internet.
@@ -459,7 +481,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Security_list](https://github.com/zbetcheckin/Security_list)
 * [selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) – Software network services which can be hosted on your own servers.
 * [services-engineering](https://github.com/mmcgrana/services-engineering) – A reading list for services engineering, with a focus on cloud infrastructure services.
-* [shareable-links](https://github.com/vinkla/shareable-links) – URLs for sharing on social media.
 * [shellshocker-pocs](https://github.com/mubix/shellshocker-pocs) – Proof of concepts and potential targets for Shellshock.
 * [slack-groups](https://github.com/learn-anything/slack-groups) – Public Slack communities.
 * [spark-joy](https://github.com/sw-yx/spark-joy) – Add design flair, user delight, and whimsy to your product.
@@ -487,6 +508,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) – Inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 * [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) – Templates & tips on writing high-quality documentation
 * [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) – Books for people who are or aspire to manage/lead team(s) of software engineers.
+* [The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) – Building Startups with an AI Co-Founder.
 * [think-awesome](https://github.com/thinkjs/think-awesome) – [ThinkJS](https://thinkjs.org/) Node.js framework
 * [til](https://github.com/jbranchaud/til) – Today I Learned.
 * [tips](https://github.com/git-tips/tips) – Most commonly used git tips and tricks.
@@ -505,6 +527,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [twofactorauth](https://github.com/2factorauth/twofactorauth) – Sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
   - https://twofactorauth.org/
 * [type-findings](https://github.com/charliewilco/type-findings) – Posts about web typography.
+* [TypeFunc](https://github.com/williamdemeo/TypeFunc) – Type theory, functional programming, and related subjects.
 * [type-trident](https://github.com/anuraghazra/type-trident) – Advanced type level madness for TypeScript.
 * [typography](https://github.com/deanhume/typography) – Web typography
   - https://deanhume.github.io/typography/
@@ -515,7 +538,6 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [vertx-awesome](https://github.com/vert-x3/vertx-awesome) – [Vert.x](http://vertx.io/) toolkit
 * [vim-galore](https://github.com/mhinz/vim-galore) – All things Vim!
 * [visual-programming-codex](https://github.com/ivanreese/visual-programming-codex) – Resources and references for the past and future of visual programming.
-* [we-are-twtxt](https://github.com/mdom/we-are-twtxt) – [twtxt](https://twtxt.readthedocs.io/) users and bots
 * [web-audio-resources](https://github.com/alemangui/web-audio-resources) – A list of curated resources related to the Web audio API.
 * [WebComponents-Polymer-Resources](https://github.com/matthiasn/WebComponents-Polymer-Resources)
 * [webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way) – Introduction to Web Components.
@@ -547,9 +569,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ada](https://github.com/ohenley/awesome-ada) – Ada and SPARK programming language
 * [awesome-adafruitio](https://github.com/adafruit/awesome-adafruitio) – [Adafruit IO](https://io.adafruit.com/) Internet of Things platform
 * [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) – [Advent of Code](https://adventofcode.com/)
+* [awesome-age](https://github.com/FiloSottile/awesome-age) – [age file encryption](https://age-encryption.org/) ecosystem.
 * [awesome-agile](https://github.com/lorabv/awesome-agile) – Agile Software Development.
   - https://lorabv.github.io/awesome-agile
+* [awesome-agile-essentials](https://github.com/SaadAAkash/awesome-agile-essentials) – Agile Software Development
 * [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) – Open source technology for agriculture, farming, and gardening
+* [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) – Tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) – [Alfred](https://www.alfredapp.com/) macOS app workflows
 * [awesome-algolia](https://github.com/algolia/awesome-algolia) – [Algolia](https://www.algolia.com/) web search service
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) – Places to learn and/or practice algorithms.
@@ -582,6 +607,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ant-design](https://github.com/websemantics/awesome-ant-design) – [Ant Design](https://ant.design/) system
 * [awesome-api](https://github.com/Kikobeats/awesome-api) – Design and implement RESTful API's
 * [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
+* [awesome-apollo-graphql](https://github.com/ooade/awesome-apollo-graphql) – [Apollo GraphQL](https://www.apollographql.com/)
 * [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) – Ideas for apps to demonstrate how framework or library approach specific problems.
 * [awesome-appium](https://github.com/SrinivasanTarget/awesome-appium) – [Appium](http://appium.io/) test automation frmework
 * [awesome-apple](https://github.com/joeljfischer/awesome-apple) – 3rd party libraries and tools for Apple platforms development.
@@ -606,6 +632,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) – UDFs, example scripts, tools and useful resources for AutoIt.
   - https://j2team.github.io/awesome-AutoIt/
 * [awesome-automotive](https://github.com/Marcin214/awesome-automotive) – Automotive engineering.
+* [awesome-autonomous-gpt](https://github.com/ScarletPan/awesome-autonomous-gpt) – Autonomous AI agents.
 * [awesome-ava](https://github.com/avajs/awesome-ava) – [AVA](https://github.com/avajs/ava) JavaScript test runner.
 * [awesome-avr](https://github.com/fffaraz/awesome-avr)
 * [awesome-aws](https://github.com/donnemartin/awesome-aws) – Amazon Web Services (AWS)
@@ -617,9 +644,13 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bem](https://github.com/getbem/awesome-bem) – Tools, sites, articles about BEM (frontend development method).
 * [awesome-big-o](https://github.com/okulbilisim/awesome-big-o) – Big O notation
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) – Big data frameworks, resources and other awesomeness.
+* [Awesome-Billing](https://github.com/kdeldycke/awesome-billing) – Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 * [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) – Open-source bioinformatics software and libraries.
+* [awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) – Image analysis in biology.
+* [awesome-bitclout](https://github.com/davidshq/awesome-bitclout) – [BitClout](https://bitclout.com/) blockchain social network.
 * [awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin) – Bitcoin services and tools for software developers.
 * [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) – Bitcoin payment processors and stories from merchants using them.
+* [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) – Deals on Black Friday: Apps, SaaS, Books, Courses, etc. (2022)
 * [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) – [Blazor](https://blazor.net/), a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 * [awesome-blender](https://github.com/agmmnn/awesome-blender) – [Blender](https://www.blender.org/) add-ons, tools, tutorials and 3D resources.
 * [awesome-blockchain](https://github.com/0xtokens/awesome-blockchain) by @0xtokens – Blockchain and Crytocurrency Resources
@@ -644,6 +675,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-bugs](https://github.com/criswell/awesome-bugs) – Funny and interesting bugs
 * [awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) – Standalone features (services, components, libraries) to be integrated into web applications.
   - https://www.componently.com/
+* [awesome-bun](https://github.com/oven-sh/awesome-bun) – [Bun](https://bun.sh/) JavaScript runtime and toolkit.
+* [awesome-buttplug](https://github.com/buttplugio/awesome-buttplug) – Projects that use the [Buttplug Sex Toy Control Library](https://buttplug.io/).
 * [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) by @aleksandar-todorovic – Continuing the development of awesome-c on GitHub
 * [awesome-c](https://github.com/kozross/awesome-c) by @kozross – C frameworks, libraries, resources etc.
   - [mirror](https://notabug.org/koz.ross/awesome-c)
@@ -654,9 +687,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - http://zyszys.github.io/awesome-captcha/
 * [awesome-cassandra](https://github.com/yikebocai/awesome-cassandra)
 * [awesome-ccxt](https://github.com/suenot/awesome-ccxt) – [CryptoCurrency eXchange Trading Library](https://github.com/ccxt/ccxt)
+* [awesome-celery](https://github.com/svfat/awesome-celery) – [Celery](https://docs.celeryq.dev/) task queue.
 * [awesome_challenge_list](https://github.com/AwesomeRubyist/awesome_challenge_list) – Sites with challenges to improve your programming skills.
 * [awesome-challenges](https://github.com/mauriciovieira/awesome-challenges) – Algorithmic challenges
 * [awesome-charting](https://github.com/zingchart/awesome-charting) – Charts and dataviz.
+* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) – [ChatGPT](https://chat.openai.com/) prompt examples.
 * [awesome-chatops](https://github.com/exAspArk/awesome-chatops) – ChatOps – managing operations through a chat
 * [awesome-chef](https://github.com/obazoud/awesome-chef) – Cookbooks, handlers, add-ons and other resources for Chef, a configuration management tool.
 * [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) – Chemical informatics
@@ -678,6 +713,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-cloud-certifications](https://gitlab.com/edzob/awesome-cloud-certifications) – Certifications for cloud platforms
 * [awesome-cloud-cost-control](https://github.com/Funkmyster/awesome-cloud-cost-control) – Ways to control the cost of cloud environments.
 * [awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) – [Cloudflare](https://www.cloudflare.com/) tools and recipes.
+* [awesome-cloudflare-workers](https://github.com/lukeed/awesome-cloudflare-workers) – [Cloudflare Workers](https://workers.cloudflare.com/) serverless / Functions as a Service platform.
 * [awesome-cmake](https://github.com/onqtam/awesome-cmake) – CMake
 * [awesome-cms](https://github.com/postlight/awesome-cms) – Open and closed source Content Management Systems (CMS)
 * [Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence) – Defences against [Cobalt Strike](https://www.cobaltstrike.com/), Adversary Simulations and Red Team Operations software.
@@ -733,6 +769,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-css](https://github.com/bring2dip/awesome-css) by @deepakbhattarai
 * [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) – CSS frameworks
 * [awesome-css-learning](https://github.com/micromata/awesome-css-learning) – A tiny list limited to the best CSS Learning Resources
+* [awesome-css-only](https://github.com/refusado/awesome-css-only) – Beautiful projects made with pure CSS.
 * [awesomeCSV](https://github.com/secretGeek/awesomeCSV) – CSV, Comma Separated Values format
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf) – [Capture the Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)
   - https://apsdehal.in/awesome-ctf/
@@ -753,6 +790,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) – Everything that makes working with databases easier.
 * [awesome-ddd](https://github.com/heynickc/awesome-ddd) by @heynickc – Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming
 * [awesome-ddd](https://github.com/wkjagt/awesome-ddd) by @wkjagt – Domain-Driven Design
+* [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) – Large Language Models (LLM) for building products you can "own" or to perform reproducible research.
 * [awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) – Decentralized services and technologies
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) – Decision Tree Research Papers
 * [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) – Deep Learning tutorials, projects and communities.
@@ -776,7 +814,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://dev-discords.now.sh/
 * [awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun) – Fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 * [awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs)
-* [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience)
+* [awesome-developer-experience](https://github.com/prokopsimek/awesome-developer-experience) by @prokopsimek
+* [awesome-developer-experience](https://github.com/workos/awesome-developer-experience) by @workos
+* [awesome-developer-first](https://github.com/agamm/awesome-developer-first) – Developer-first products.
+* [awesome-developer-first-directories](https://github.com/fmerian/awesome-developer-first-directories) – places to promote your developer-first product.
 * [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing)
 * [awesome-devenv](https://github.com/jondot/awesome-devenv) – Tools, resources and workflow tips making an awesome development environment.
 * [awesome-devops](https://github.com/joubertredrat/awesome-devops)
@@ -799,9 +840,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) – .NET libraries, tools, frameworks and software.
 * [awesome-dotnet-architecture](https://github.com/mehdihadeli/awesome-dotnet-architecture) – Software architecture, patterns, and principles in .NET platform.
-* [awesome-dotnet-async](https://github.com/mehdihadeli/awesome-dotnet-async) – Async, threading, and channels in .NET platform,
 * [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) – .NET core libraries, tools, frameworks and software
-* [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) – .NET Core education resources.
+* [awesome-dotnet-core-education](https://github.com/mjebrahimi/awesome-dotnet-core-education) – .NET Core education resources.
 * [awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) – .NET, software architecture, microservice and cloud-native.
 * [awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) – [Draft.js](https://draftjs.org/) text editor framework
 * [awesome-dropwizard](https://github.com/stve/awesome-dropwizard) – [Dropwizard](https://www.dropwizard.io/) Java web framework
@@ -810,9 +850,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-drupal](https://github.com/nirgn975/awesome-drupal) by @nirgn975 – Useful resources for Drupal CMS :droplet:
 * [awesome-dtrace](https://github.com/xen0l/awesome-dtrace) – DTrace books, articles, videos, tools and resources.
   - https://awesome-dtrace.com
+* [awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) – [DuckDB](https://duckdb.org/) in-process SQL OLAP database management system.
 * [awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) – eBPF Linux packet filter
 * [awesome-economics](https://github.com/antontarasenko/awesome-economics) – Economics related projects, software, people
 * [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) – AWS Elastic Container Service and Fargate.
+* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) – Edge computing, including Frameworks, Simulators, Tools, etc.
+* [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) – [Editor.js](https://editorjs.io/) block-styled editor component.
 * [awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) – Tools and resources for educators and virtual teachers.
 * [awesome-educate](https://github.com/mercer/awesome-educate) – Education resources online.
 * [awesome-educational-games](https://github.com/yrgo/awesome-educational-games) – Educational games to learn editors, languages, programming
@@ -821,6 +864,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-electron](https://github.com/sindresorhus/awesome-electron) – Resources for creating apps with [Electron](http://electron.atom.io/) (formerly atom-shell).
 * [awesome-electronics](https://github.com/kitspace/awesome-electronics) – Electronic engineering
 * [awesome-eleventy](https://github.com/chrissy-dev/awesome-eleventy) – [Eleventy (11ty)](https://www.11ty.dev/) static site generator.
+* [awesome-elisp](https://github.com/p3r7/awesome-elisp) – Emacs Lisp development resources.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 * [awesome-elm](https://github.com/sporto/awesome-elm) – [Elm](https://elm-lang.org/), a functional reactive language
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) by @emacs-tw
@@ -828,11 +872,13 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-emacs](https://github.com/tacticiankerala/awesome-emacs) by @tacticiankerala
 * [awesome-emails](https://github.com/jonathandion/awesome-emails) – Build better emails.
 * [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) – Embedded and Low-level development in the Rust programming language
+* [awesome-embedded-security](https://github.com/hexsecs/awesome-embedded-security)
 * [awesome-ember](https://github.com/ember-community-russia/awesome-ember) by @ember-community-russia – [Ember.js](https://emberjs.com/) JavaScript framework
 * [awesome-ember](https://github.com/nmec/awesome-ember) by @nmec – Ember.js things.
 * [awesome-endless-codeforall-list](https://github.com/RobTranquillo/awesome-endless-codeforall-list) – Every tool that civic hackers worldwide use to work.
 * [awesome-engineer-onboarding](https://github.com/posquit0/awesome-engineer-onboarding)
 * [awesome-engineering-ladders](https://github.com/posquit0/awesome-engineering-ladders)
+* [awesome-Engineering-Team-Management](https://github.com/kdeldycke/awesome-engineering-team-management) – How to transition from software development to engineering management.
 * [awesome-engineering-team-principles](https://github.com/posquit0/awesome-engineering-team-principles)
 * [awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) – [EOS.IO](https://eos.io/) blockchain protocol
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
@@ -844,13 +890,17 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-ethereum](https://github.com/vinsgo/awesome-ethereum) by @vinsgo
   - http://awesome-ethereum.com/
 * [awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
+* [awesome-etl](https://github.com/pawl/awesome-etl) – ETL (extract, transform, load) frameworks, libraries, and software.
 * [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – Falsehoods programmers believe in.
 * [awesome-fantasy](https://github.com/r7kamura/awesome-fantasy) – FinalFantasy-ish metaphors in software.
 * [awesome-fast-check](https://github.com/dubzzz/awesome-fast-check) – [fast-check](https://github.com/dubzzz/fast-check/) property based testing framework for JavaScript/TypeScript
 * [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) – [FastAPI](https://fastapi.tiangolo.com/) Python web framework
 * [awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) – [Feathers](https://feathersjs.com/) Node.js framework for real-time applications REST APIs.
+* [awesome-feature-flag-management](https://github.com/andrewdmaclean/awesome-feature-flag-management) – Features flagging & management.
+* [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning) – Federated Learning (FL) is a new machine learning framework, which enables multiple devices collaboratively to train a shared model without compromising data privacy and security.
 * [awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) – [Fediverse](https://en.wikipedia.org/wiki/Fediverse) resources.
 * [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) – FFmpeg resources.
+* [awesome-finger](https://github.com/reiver/awesome-finger) – Finger protocol ecosystem.
 * [awesome-firebase](https://github.com/jthegedus/awesome-firebase) – Firebase mobile development platform
 * [awesome.fish](https://github.com/jorgebucaran/awesome.fish) – Fish shell
   - https://git.io/awesome-fish
@@ -905,10 +955,12 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) – Learning and practicing Golang and its related technologies.
   - https://mehdihadeli.github.io/awesome-go-education/
 * [awesome-godot](https://github.com/godotengine/awesome-godot) – [Godot](https://godotengine.org/) game engine
+* [awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) – OpenAI GPT-4.
 * [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) – Gradient boosting research papers with implementations.
 * [awesome-grails](https://github.com/hitenpratap/awesome-grails)
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) – Graph embedding papers with implementations.
 * [awesome-graphql](https://github.com/chentsulin/awesome-graphql) – GraphQL & Relay Resources.
+* [awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) – Projects related to [graphql-java](https://www.graphql-java.com/).
 * [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 * [awesome-growth-hacking](https://github.com/bekatom/awesome-growth-hacking)
 * [awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – [gRPC](https://grpc.io/) RPC framework.
@@ -935,10 +987,13 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-homematic](https://github.com/homematic-community/awesome-homematic) – [HomeMatic](https://www.homematic.com/) home automation
 * [awesome-honeypots](https://github.com/paralax/awesome-honeypots) – Honeypot resources
 * [awesome-html5](https://github.com/diegocard/awesome-html5)
+* [awesome-htmx](https://github.com/rajasegar/awesome-htmx) – [htmx](https://htmx.org/) JavaScript library for building hypermedia-driven applications.
 * [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) – HTTP(S) benchmark tools, testing/debugging, REST APIs.
 * [awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) – Promoting Solutions that Improve Wellbeing, Freedom and Society
+* [awesome-hydrogen](https://github.com/Shopify/awesome-hydrogen) – [Hydrogen](https://hydrogen.shopify.dev/) framework, based on React, for building Shopify-powered storefronts.
 * [awesome-hyper](https://github.com/bnb/awesome-hyper) – [Hyper](https://hyper.is/) terminal
 * [awesome-hyperscript](https://github.com/hyperhype/awesome-hyperscript) – [HyperScript](https://github.com/hyperhype/hyperscript) library for creating HTML with JavaScript.
+* [awesome-IAM](https://github.com/kdeldycke/awesome-iam) – User accounts, authentication and authorization.
 * [awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud) – IBM Cloud
   - https://awesome-ibmcloud.mybluemix.net
 * [awesome-icons](https://github.com/notlmn/awesome-icons) – Downloadable SVG/PNG/Font icon projects
@@ -949,6 +1004,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb) – Resources for the time series database InfluxDB
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval) – Information retrieval resources
 * [awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit) – InspectIT documentations and resources.
+* [awesome-integration](https://github.com/stn1slv/awesome-integration) – Sntegration software, patterns, and resources.
 * [AwesomeInterpreter](https://github.com/BaseMax/AwesomeInterpreter) – Open-source code interpreters on GitHub.
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) – Interview questions.
 * [awesome-ionic](https://github.com/candelibas/awesome-ionic) – [Ionic](https://ionicframework.com/) mobile development framework
@@ -995,7 +1051,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
   - https://ramitsurana.github.io/awesome-kubernetes
 * [awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page) – Landing pages templates
-* [awesome-languages](https://github.com/perfaram/awesome-languages) – Open-source programming languages.
+* [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) – [LangChain](https://langchain.com/) LLM applications framework.
 * [awesome-laravel](https://github.com/chiraggude/awesome-laravel) by @chiraggude
 * [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) by @TimothyDJones
 * [Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) _In English and Chinese_ – Laravel PHP framework learning resources.
@@ -1006,8 +1062,11 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) – Leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 * [awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) – Resources to help you get started with Data Science
 * [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
+* [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) – Learning Resources on Web Development.
 * [awesome-ledger](https://github.com/sfischer13/awesome-ledger) – Ledger command-line accounting system
 * [awesome-legacy-code](https://github.com/legacycoderocks/awesome-legacy-code) – Legacy systems with publicly available source code
+* [awesome-lemmy](https://github.com/dbeley/awesome-lemmy) – Useful apps, tools and websites for [Lemmy](https://join-lemmy.org/) federated social link aggregator.
+* [awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) – Comparison of different instances of [Lemmy](https://join-lemmy.org/).
 * [awesome-less](https://github.com/LucasBassetti/awesome-less) – Less CSS preprocessor
 * [awesome-lesscode](https://github.com/dream2023/awesome-lesscode) _In Chinese_ – Low code / no code projects
 * [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) – [libGDX](https://libgdx.badlogicgames.com/) cross-platform games development framework
@@ -1025,11 +1084,16 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – Linux applications for all users and developers.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) – Professional audio/video/live events production on Linux.
 * [awesome-lit-html](https://github.com/web-padawan/awesome-lit-html) – [lit-html](https://lit-html.polymer-project.org/) HTML templating library
+* [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) – Lightweight versions of websites without all the bloat
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) – All things Livecoding.
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) – Large Language Models
+* [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) – Autonomous Large Language Model agents.
+* [awesome-lnurl](https://github.com/lnurl/awesome-lnurl) – [LNURL](https://github.com/lnurl/luds) (Lightning Network protocols)
 * [awesome-logging](https://github.com/roundrobin/awesome-logging)
 * [awesome-loginless](https://github.com/fiatjaf/awesome-loginless) – Internet services that don't require logins or registrations.
 * [awesome-logseq](https://github.com/logseq/awesome-logseq) – [Logseq](https://logseq.com/) personal knowledge management.
 * [awesome-love2d](https://github.com/love2d-community/awesome-love2d) – [LÖVE](http://love2d.org/) Lua game framework
+* [awesome-low-latency](https://github.com/penberg/awesome-low-latency) – Patterns and resources of low latency programming.
 * [awesome-lowcode](https://github.com/taowen/awesome-lowcode) _In Chinese_ – Chinese low code platforms.
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by @forhappy
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) by @LewisJEllis
@@ -1053,7 +1117,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
 * [awesome-markdown-alternatives](https://github.com/mundimark/awesome-markdown-alternatives) – Light-weight markup markdown alternatives.
 * [awesome-masonite](https://github.com/vaibhavmule/awesome-masonite) – [Masonite](https://docs.masoniteproject.com/) Python web framework
-* [awesome-mastodon](https://github.com/tleb/awesome-mastodon) – [Mastodon](https://joinmastodon.org/) decentralized microblogging network
+* [awesome-mastodon](https://github.com/hueyy/awesome-mastodon) by @hueyy – [Mastodon](https://joinmastodon.org/) social media platform.
+* [awesome-mastodon](https://github.com/tleb/awesome-mastodon) by @tleb – [Mastodon](https://joinmastodon.org/) decentralized microblogging network
 * [awesome-material](https://github.com/sachin1092/awesome-material) – Google's material design
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) _In Chinese_ – Resources and libraries for [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
 * [awesome-math](https://github.com/rossant/awesome-math) – Mathematics
@@ -1081,6 +1146,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) – INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools for Operations.
   - http://canuxcheng.com/awesome-monitoring/
 * [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) – Monte Carlo tree search, a heuristic search algorithm frequently used in games.
+* [awesome-motherfucking-website](https://github.com/lyoshenka/awesome-motherfucking-website) – Websites about minimal web design and copious swearing.
 * [awesome-motion-design-web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
 * [awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) – Papers, books and tools for motion planning.
 * [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt) – MQTT related stuff.
@@ -1089,12 +1155,14 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) – MySQL software, libraries, tools and resources
 * [awesome-naming](https://github.com/gruhn/awesome-naming) – When naming things is done right.
 * [awesome-neo4j](https://github.com/neueda/awesome-neo4j) – Neo4j graph database
+* [awesome-neocities](https://github.com/lime360/awesome-neocities) – [Neocities](https://neocities.org/), a social network of websites and free static hosting.
 * [awesome-netherlands-events](https://github.com/awkward/awesome-netherlands-events) – Dutch (tech related) events
 * [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
   - http://f.briatte.org/r/awesome-network-analysis-list
 * [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) – Papers on node embedding techniques.
 * [awesome-network-js](https://github.com/Kikobeats/awesome-network-js) – Network layer resources in pure JavaScript
 * [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)
+* [awesome-neural-reprogramming-prompting](https://github.com/huckiyang/awesome-neural-reprogramming-prompting) – Adversarial reprogramming and input prompting methods for neural networks.
 * [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) – Neuroscience libraries, software and resources
   - http://akashtandon.com/awesome-neuroscience/
 * [awesome-newsletters](https://github.com/mpron/awesome-newsletters) by @mpron – Developer newsletters
@@ -1113,6 +1181,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides) – NoSQL databases
   - https://erictleung.com/awesome-nosql-guides/
 * [awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) – Ready to use data science templates.
+* [awesome-notion](https://github.com/spencerpauly/awesome-notion) – [Notion](https://www.notion.so/)
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm)
 * [awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) – using npm as a build tool
 * [awesome-ntnu](https://github.com/michaelmcmillan/awesome-ntnu) – Projects by NTNU students.
@@ -1122,6 +1191,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) – [Obsidian](https://obsidian.md/) knowledge base app.
 * [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml)
 * [awesome-ocap](https://github.com/dckc/awesome-ocap) – Capability-based security enables the concise composition of powerful patterns of cooperation without vulnerability.
+* [awesome-odoo](https://github.com/odoo-ru/awesome-odoo) – [Odoo](https://odoo.com) open-source ERP
 * [awesome-offline](https://github.com/yangwao/awesome-offline) – Offline-first, progressive web applications (PWA).
 * [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) – Algorithms for offline reinforcement learning.
 * [awesome-okr](https://github.com/domenicosolazzo/awesome-okr) – Objective - Key Results, the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results
@@ -1129,6 +1199,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://ide.ceriously.com
 * [awesome-online-machine-learning](https://github.com/MaxHalford/awesome-online-machine-learning) – [Online machine learning](https://en.wikipedia.org/wiki/Online_machine_learning)
 * [awesome-open-company](https://github.com/opencompany/awesome-open-company) – Open companies: Share as much as possible, charge as little as possible.
+* [awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) _In Chinese_ – Open Source Projects Related to GPT.
 * [awesome-open-science](https://github.com/silky/awesome-open-science)
 * [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) – Companies that offer their services for free to Open Source projects
 * [awesome-openbudget](https://github.com/infoculture/awesome-openbudget) _In Russian_ – Open Budget government spending visualization.
@@ -1136,6 +1207,8 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)
 * [awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) – Open source or open source licensed documents, guides, books.
 * [awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) – Free open source software & libraries for photography. Also tools for video.
+* [awesome-orgs](https://github.com/beansource/awesome-orgs) – GitHub Organizations.
+* [awesome-os](https://github.com/jubalh/awesome-os) – Open source operating systems and hobby operating systems.
 * [awesome-osc](https://github.com/amir-arad/awesome-osc) – [Open Sound Control](http://opensoundcontrol.org/)
 * [awesome-osint](https://github.com/jivoi/awesome-osint) – Open-source intelligence (OSINT)
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) – Open-source alternatives to established SaaS products.
@@ -1144,12 +1217,14 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) – Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things.
 * [awesome-password-cracking](https://github.com/narkopolo/awesome-password-cracking) – Password cracking and password security.
 * [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) – Tools to process network traces.
+* [awesome-pdm](https://github.com/pdm-project/awesome-pdm) – [PDM](https://pdm.fming.dev/) Python package manager.
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) – Penetration testing resources and tools.
 * [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) – Penetration testing
 * [Awesome-People-in-Computer-Vision](https://github.com/solarlee/Awesome-People-in-Computer-Vision)
 * [awesome-perfocards](https://github.com/Wolg/awesome-perfocards) _See [perfokaart](https://et.wikipedia.org/wiki/Perfokaart)._
 * [awesome-perl](https://github.com/hachiojipm/awesome-perl)
 * [awesome-persian](https://github.com/fffaraz/awesome-persian) – Persian/Farsi supporting tools, fonts, and development resources.
+* [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) – Personal tech blogs.
 * [awesome-phalcon](https://github.com/phalcon/awesome-phalcon) – [Phalcon](https://phalconphp.com/en/) PHP framework libraries and resources.
 * [awesome-pharo](https://github.com/pharo-open-documentation/awesome-pharo) – [Pharo](https://pharo.org/) Smalltalk
 * [awesome-pharo-ml](https://github.com/pharo-ai/awesome-pharo-ml) – Machine learning, AI, data science in Pharo.
@@ -1160,6 +1235,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) – Pipeline toolkits.
 * [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – Warez and piracy links
 * [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art)
+* [awesome-plan9](https://github.com/henesy/awesome-plan9)
 * [awesome-play1](https://github.com/PerfectCarl/awesome-play1) – Play Framework 1.x modules, tools, and resources.
 * [awesome-plotters](https://github.com/beardicus/awesome-plotters) – Computer-controlled drawing machines and other visual art robots.
 * [awesome-podcasts](https://github.com/Ghosh/awesome-podcasts) by @Ghosh – Podcasts for designers, developers, product managers, entrepreneurs and hustlers
@@ -1178,7 +1254,10 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-privacy](https://github.com/pluja/awesome-privacy) by @pluja – Services and alternatives that respect your privacy because PRIVACY MATTERS.
 * [awesome-product-design](https://github.com/teoga/awesome-product-design) by @teoga – Bookmarks, resources, articles for product designers.
 * [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) by @ttt30ga – Resources for product designers.
-* [awesome-product-management](https://github.com/dend/awesome-product-management) – Resources for product/program managers to learn and grow.
+* [awesome-product-hunt](https://github.com/fmerian/awesome-product-hunt) – Developer tools launched on Product Hunt.
+* [awesome-product-management](https://github.com/dend/awesome-product-management) by @dend – Resources for product/program managers to learn and grow.
+* [Awesome-Product-Management](https://github.com/prakashsellathurai/Awesome-Product-Management) by @prakashsellathurai
+* [awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager)
 * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) – Delightful productivity resources.
 * [awesome-ProductManager](https://github.com/hugo53/awesome-ProductManager) – Books and tools for Product Managers.
 * [awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) – Teaching kids programming
@@ -1189,6 +1268,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) – Prometheus alerting rules
   - https://awesome-prometheus-alerts.grep.to
 * [awesome-promises](https://github.com/wbinnssmith/awesome-promises) – JavaScript Promises.
+* [Awesome_Prompting_Papers_in_Computer_Vision](https://github.com/ttengwang/Awesome_Prompting_Papers_in_Computer_Vision) – Prompt-based papers in computer vision and vision-language learning.
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) by @awesomedata – (Large-scale) public datasets on the Internet.
   - [source data](https://github.com/awesomedata/apd-core)
 * [awesome-puppet](https://github.com/rnelson0/awesome-puppet)
@@ -1200,6 +1280,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-python](https://github.com/vinta/awesome-python) by @vinta
 * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) _In Chinese_
 * [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science)
+* [awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) – Python-based web development using [htmx](https://htmx.org/) library.
 * [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
 * [awesome-python-models](https://github.com/grundic/awesome-python-models) – List of ORMs, models, schemas, serializers, etc. libraries  for python.
 * [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) – Python software and packages related to scientific research in audio
@@ -1225,6 +1306,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) by @thibmaek – Raspberry Pi tools, projects, images and resources
 * [awesome-react](https://github.com/enaqx/awesome-react) – ReactJS tools, resources, videos.
 * [awesome-react-components](https://github.com/brillout/awesome-react-components) – React Components & Libraries.
+* [awesome-react-graphql](https://github.com/hasura/awesome-react-graphql) – GraphQL + React/React Native
 * [awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) – React Hooks
 * [awesome-react-native](https://github.com/jondot/awesome-react-native)
   - http://www.awesome-react-native.com
@@ -1242,6 +1324,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) – Visual regression testing
 * [awesome-relay](https://github.com/expede/awesome-relay) – [Relay](https://relay.dev/) JavaScript framework for React and GraphQL
 * [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) – [reMarkable](https://remarkable.com/) e-ink tablet.
+* [awesome-remote-companies](https://github.com/fireball787b/awesome-remote-companies) – Remote companies with values and work-life balance culture.
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) – Remote companies and other resources.
 * [awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) – Books and links about and for remote work.
 * [awesome-research](https://github.com/emptymalei/awesome-research) – Tools to help you with research/life
@@ -1269,8 +1352,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [AwesomeRubyist/awesome_podcast_list](https://github.com/AwesomeRubyist/awesome_podcast_list) – Podcasts about Ruby and development, also in Russian.
 * [AwesomeRubyist/awesome_reading_list](https://github.com/AwesomeRubyist/awesome_reading_list) – Books about Ruby and Rails.
 * [AwesomeRubyist/awesome_resource_list](https://github.com/AwesomeRubyist/awesome_resource_list) – Resources for Ruby and Rails.
-* [awesome-rubymotion](https://github.com/motion-open-source/awesome-rubymotion) – [RubyMotion](http://www.rubymotion.com/), cross-platform development in Ruby
-  - http://motion-open-source.github.io/awesome-rubymotion/
+* [awesome-runbook](https://github.com/runbear-io/awesome-runbook) – Runbook documents, guidebooks, software, and resources.
 * [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * [awesome-rxjava](https://github.com/eleventigers/awesome-rxjava) – RxJava, reactive programming library
 * [awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce) – Salesforce Platform Resources
@@ -1285,6 +1367,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) – The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 * [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) – Software for numerical analysis
 * [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) – Tools, demos and resources to go beyond LaTeX.
+* [awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) – [Scriptable](https://scriptable.app/) iOS app for automation with JavaScript.
 * [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn) – Software Defined Network (SDN)
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) – Security talks.
 * [awesome-security](https://github.com/sbilly/awesome-security) – Software, libraries, documents, books, resources and cool stuff about security.
@@ -1309,6 +1392,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-slack](https://github.com/matiassingers/awesome-slack) by @matiassingers
 * [awesome-slack-communities](https://github.com/radermacher/awesome-slack-communities) – Public Slack Communities.
 * [awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) – Smart TV apps
+* [awesome-smithy](https://github.com/smithy-lang/awesome-smithy) – Build-tools, code-generators, examples, and other resources related to the [Smithy IDL](https://smithy.io/).
 * [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) by @mehdihadeli – Software architecture, patterns, and principles.
 * [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) by @simskij – Design, reason around and build software using architectural patterns and methods
 * [awesome-software-craftsmanship](https://github.com/benas/awesome-software-craftsmanship) – [Software craftsmanship](http://manifesto.softwarecraftsmanship.org/) resources to help learn the craft.
@@ -1316,21 +1400,22 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-software-quality](https://github.com/ligurio/awesome-software-quality) – Free software testing books.
 * [awesome-solid](https://github.com/kustomzone/awesome-solid) – [Solid](https://solidproject.org/) (social linked data) project.
 * [awesome-sound](https://github.com/hwclass/awesome-sound) – Sound & audio libraries and resources.
-* [awesome-space](https://github.com/elburz/awesome-space) – Outer Space
-* [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) – Space exploration related book
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) – Linguistic Resources for doing NLP & CL on Spanish
 * [awesome-spark](https://github.com/awesome-spark/awesome-spark) – Apache Spark packages and resources.
 * [awesome-speakers](https://github.com/karlhorky/awesome-speakers) – Speakers in the programming and design communities
 * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) – Tools for Sphinx Python Documentation Generator.
 * [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) – Ergonomic split keyboards.
 * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) – Extra libraries for SQLAlchemy, a Python ORM.
-* [awesome-sqlite](https://github.com/sqlsite/awesome-sqlite)
+* [awesome-sqlite](https://github.com/atharen/awesome-sqlite) by @atharen
+* [awesome-sqlite](https://github.com/mindreframer/awesome-sqlite) by @mindreframer
+* [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) by @planetopendata
 * [awesome-sre](https://github.com/dastergon/awesome-sre) – Site Reliability and Production Engineering
   - https://sre.xyz
 * [awesome-ssh](https://github.com/moul/awesome-ssh)
   - https://manfred.life/awesome-ssh
 * [awesome-stacks](https://github.com/stackshareio/awesome-stacks) – Tech stacks for building different applications & features
   - https://awesomestacks.dev
+* [awesome-standalones](https://github.com/davatron5000/awesome-standalones) – Framework-agnostic standalone web components.
 * [awesome-standard](https://github.com/standard/awesome-standard) – Documenting the explosion of packages in the [standard](http://standardjs.com/) (JavaScript code style) ecosystem.
 * [awesome-stars](https://github.com/lichunqiang/awesome-stars) _In Chinese_ – Useful libraries with personal remarks.
 * [awesome-startup](https://github.com/KrishMunot/awesome-startup) – Resources to build your own startup
@@ -1359,6 +1444,9 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) by @n1trux – Open source sysadmin resources.
 * [awesome-system-design](https://github.com/madd86/awesome-system-design) – Distributed systems design
 * [awesome-system-fonts](https://github.com/mrmrs/awesome-system-fonts) – Websites that use system fonts.
+* [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) – Research in machine learning systems (MLSys).
+  - https://ai-engineering.club/
+* [awesome-tagged-templates](https://github.com/kay-is/awesome-tagged-templates) – ES2015 tagged template literals.
 * [awesome-taglines](https://github.com/miketheman/awesome-taglines) – Software taglines
 * [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) – [Tailwind CSS](https://tailwindcss.com/)
   - https://git.io/awesome-tailwindcss
@@ -1382,17 +1470,18 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-themes](https://github.com/AdrienTorris/awesome-themes) – Web themes and templates
 * [awesome-tikz](https://github.com/xiaohanyu/awesome-tikz) – [TikZ](https://pgf-tikz.github.io/) graph drawing package for TeX/LaTeX/ConTeXt
 * [awesome-tinkerpop](https://github.com/mohataher/awesome-tinkerpop) – [Apache TinkerPop](http://tinkerpop.apache.org/) graph computing framework
-* [awesome-token-sale](https://github.com/holographicio/awesome-token-sale) – Token sale / ICO resources
 * [awesome-torch](https://github.com/carpedm20/awesome-torch) – Tutorials, projects and communities for [Torch](http://torch.ch/), a scientific computing framework for LuaJIT.
 * [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) – Transit APIs, apps, datasets, research, and software
 * [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – [Ngrok](https://ngrok.com/) alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 * [awesome-twilio](https://github.com/Twilio-org/awesome-twilio) – Curated repository of useful and generally awesome Twilio tools and technologies
+* [awesome-twitter-tools](https://github.com/hridaydutta123/awesome-twitter-tools) – Twitter research: tools, libraries, papers, browser extensions, datasets, and public lists.
 * [AwesomeTwitterAccounts](https://github.com/yask123/AwesomeTwitterAccounts) – Twitter accounts, organised by programming communities.
 * [awesome-typescript](https://github.com/dzharii/awesome-typescript) by @dzharii – TypeScript programming language
 * [awesome-typescript](https://github.com/ellerbrock/awesome-typescript) by @ellerbrock
   - https://ellerbrock.github.io/awesome-typescript
 * [awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects) – TypeScript open-source projects
 * [awesome-typography](https://github.com/Jolg42/awesome-typography) – Resources on OpenType & TrueType.
+* [awesome-typst](https://github.com/qjcg/awesome-typst) – [Typst](https://typst.app/) typesetting system.
 * [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) – Framework component libraries for UI styles/toolkit
   - https://anubhavsrivastava.github.io/awesome-ui-component-library/
 * [awesome-umbraco](https://github.com/umbraco-community/awesome-umbraco) – Resources for Umbraco 7, a .NET CMS.
@@ -1414,12 +1503,14 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) by @akrawchyk
 * [awesome-vim](https://github.com/matteocrippa/awesome-vim) by @matteocrippa
 * [awesome-vite](https://github.com/vitejs/awesome-vite) – [Vite](https://vitejs.dev/) front-end build tooling.
+* [awesome-vjing](https://github.com/LimeLimeW/awesome-vjing) – VJing / visuals.
 * [awesome-vlc](https://github.com/mfkl/awesome-vlc) – [VideoLAN VLC](https://www.videolan.org/) multimedia player and framework.
 * [awesome-volt](https://github.com/heri/awesome-volt) – [Volt](http://voltframework.com/) Ruby web framework.
 * [awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal) – [Vorpal](http://vorpal.js.org/) Node.js interactive CLI framework
 * [awesome-vscode](https://github.com/viatsko/awesome-vscode) – Visual Studio Code
   - https://viatsko.github.io/awesome-vscode/
 * [awesome-vue](https://github.com/vuejs/awesome-vue) – Resources for [Vue.js](http://vuejs.org/) JavaScript UI library.
+* [awesome-vue-graphql](https://github.com/hasura/awesome-vue-graphql) – GraphQL + Vue.js
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) – [3D graphics and compute API](https://www.khronos.org/vulkan/)
 * [awesome-wagtail](https://github.com/springload/awesome-wagtail) – [Wagtail](https://wagtail.io/) Python CMS
 * [awesome-wasm](https://github.com/mbasso/awesome-wasm) – WebAssembly
@@ -1444,6 +1535,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-webservice](https://github.com/wapmorgan/awesome-webservice) – Web and cloud services, SaaS.
 * [awesome-websockets](https://github.com/facundofarias/awesome-websockets) – Websocket libraries and resources.
 * [awesome-webvis](https://github.com/rajsite/awesome-webvis) – [WebVI](http://www.webvi.io/) examples made using [LabVIEW](http://www.ni.com/en-us/support/software-technology-preview.html) systems engineering software.
+* [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) _In Chinese_ – WeChat mini-programs development
 * [awesome-weekly](https://github.com/jondot/awesome-weekly) – Quality weekly subscription newsletters from the software world.
 * [awesome-wicket](https://github.com/PhantomYdn/awesome-wicket) – [Apache Wicket](http://wicket.apache.org/) Java web framework
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) – Wikipedia-related frameworks, libraries, software, datasets and references.
@@ -1463,6 +1555,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-yaml](https://github.com/dreftymac/awesome-yaml) by @dreftymac
 * [awesome-yii](https://github.com/iJackUA/awesome-yii) – Yii PHP framework extensions, tutorials and other nice things.
 * [awesome-ynab](https://github.com/scottrobertson/awesome-ynab) – [You Need A Budget](https://www.youneedabudget.com/)
+* [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) – YouTubers that teach about technology.
 * [awesome-zig](https://github.com/nrdmn/awesome-zig) – [Zig](https://ziglang.org/) programming language.
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 * [awesomo](https://github.com/lk-geimfari/awesomo) – Open source projects in various languages.
@@ -1473,6 +1566,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 
 ## Lists of lists
 
+* [academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) – A list of various lists consisting of academics on Mastodon.
 * [awesome](https://github.com/sindresorhus/awesome) – A curated list of awesome lists.
 * [awesome-all](https://github.com/bradoyler/awesome-all) – A curated list of awesome lists of awesome frameworks, libraries and software
 * [awesome-android-awesomeness](https://github.com/yongjhih/awesome-android-awesomeness#awesomeness)
@@ -1480,12 +1574,15 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp – A curated list of awesome curated lists of many topics.
 * [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs – A curated list of awesome curated lists! Inspired by inspiration.
 * [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen – A curated list of curated lists of libraries, resources and shiny things for various languages.
+* [awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) – An awesome list for collecting awesome lists related to prompt engineering.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) – A curated list of awesome awesomeness
 * [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) _In Chinese_ – 中文版awesome list 系列文章
 * [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 * [awesome-collection](https://github.com/flyhigher139/awesome-collection) – A list of awesome repos.
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Lists for hackers, pentesters and security researchers.
-* [awesome-lists](https://github.com/pshah123/awesome-lists) – A curated list for your curated lists, including other curated lists of curated lists that may or may not contain other curated lists.
+* [awesome-lists](https://github.com/cuuupid/awesome-lists) by @cuuupid – A curated list of curated lists.
+* [awesome-lists](https://github.com/pshah123/awesome-lists) by @pshah123 – A curated list for your curated lists, including other curated lists of curated lists that may or may not contain other curated lists.
+* [awesome-lists](https://github.com/szabgab/awesome-lists) by @szabgab – Another curated list of curated lists.
 * [curated-lists](https://github.com/learn-anything/curated-lists)
 * [delightful](https://codeberg.org/teaserbot-labs/delightful) – Home of delightful curated lists of free software, open science and information sources.
 * [delightful-club](https://codeberg.org/yarmo/delightful-club) – The delightful curated list of delightful curated lists
@@ -1494,6 +1591,7 @@ List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contribu
   - https://getawesomeness.herokuapp.com/
 * [list-of-lists](https://github.com/cyrusstoller/list-of-lists) – A meta list of lists of useful open source projects and developer tools.
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) – List of github lists
+* [more-awesome](https://github.com/0ex/more-awesome) – An extensive list of "awesome" lists to help you find resources and starting points on every topic.
 * [must-watch-list](https://github.com/adrianmoisey/must-watch-list) – List of must-watch lists.
 * [this one](https://github.com/jnv/lists)
 * [wiki](https://github.com/huguangju/wiki) _In Chinese_ – A curated list of awesome lists.
